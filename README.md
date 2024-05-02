@@ -2,6 +2,7 @@
 <img width="1160" alt="image" src="https://github.com/DanyaBykov/discrete-lab-4/assets/97969366/cdb24f1b-ea51-41ab-a9c5-590c178edcf8">
 
 Below you can see how to start the program and some examples of it's work:
+
 <img width="294" alt="image" src="https://github.com/DanyaBykov/discrete-lab-4/assets/97969366/3b36c7a4-7db1-4d6f-979c-e67d9a264a44">
 
 Examples:
